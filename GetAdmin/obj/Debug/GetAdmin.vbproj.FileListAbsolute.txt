@@ -1,0 +1,10 @@
+C:\Users\MONSTERMC\Downloads\New folder\GetAdmin\obj\Debug\GetAdmin.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\New folder\GetAdmin\obj\Debug\GetAdmin.Form1.resources
+C:\Users\MONSTERMC\Downloads\New folder\GetAdmin\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Downloads\New folder\GetAdmin\obj\Debug\GetAdmin.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\New folder\GetAdmin\obj\Debug\GetAdmin.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\New folder\GetAdmin\bin\Debug\GetAdmin.exe.config
+C:\Users\MONSTERMC\Downloads\New folder\GetAdmin\bin\Debug\GetAdmin.exe
+C:\Users\MONSTERMC\Downloads\New folder\GetAdmin\bin\Debug\GetAdmin.pdb
+C:\Users\MONSTERMC\Downloads\New folder\GetAdmin\obj\Debug\GetAdmin.exe
+C:\Users\MONSTERMC\Downloads\New folder\GetAdmin\obj\Debug\GetAdmin.pdb
